@@ -8,7 +8,7 @@
 Anthor: Michael
 Version: 0.0.1
 Date: 2016-8-11
-Language: Python2.7.8
+Language: Python2.7.12
 Editor: Sublime Text3
 Operate: 具体操作请看README.md介绍
 """
